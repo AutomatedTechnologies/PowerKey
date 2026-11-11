@@ -1,7 +1,7 @@
 # Academy Fork — Provenance
 
 - **Upstream repository:** PowerKey — https://github.com/pkamb/PowerKey
-- **Original authors:** Copyright (c) 2014 Peter Kamb; The above copyright notice and this permission notice shall be included in all; AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+- **Original authors:** Copyright (c) 2014 Peter Kamb
 - **License:** MIT (upstream license governs the code; the upstream LICENSE file is unmodified)
 - **Fork point:** 627b48b846c1c9b3c933172d65d9df560617018f (upstream HEAD of `master` at acquisition)
 - **Date acquired:** 2026-11-10
